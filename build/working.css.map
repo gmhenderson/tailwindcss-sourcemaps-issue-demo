@@ -1,0 +1,1 @@
+{"version":3,"sources":["button.css"],"names":[],"mappings":"AAAA;IACI,iBAAiB;IACjB,aAAa;IACb,aAAa;IACb,sBAAsB;CACzB","file":"working.css","sourcesContent":[".button {\n    background: blue;\n    padding: 1em;\n    color: white;\n    display: inline-block;\n}\n"]}

@@ -1,0 +1,8 @@
+@tailwind preflight;
+@tailwind components;
+
+.tailwind-button {
+    @apply .bg-blue .text-white .inline-block .py-2 .px-3 .border-0 .cursor-pointer;
+}
+
+@tailwind utilities;
